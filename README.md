@@ -1,4 +1,4 @@
-# FSN-Syntax-Validator
+# Fuzzy Set Notation Syntax Validator
 
 ## What Does It Do?
 Simple, this program is a parser implemented using Flex and Bison that validates
@@ -18,3 +18,10 @@ Once you *make* the program you can run it using the following command:
 ```
 After you run the program it will halt for an input string. Once the input
 string is entered, press enter, and the program will return the result.
+
+## License Information
+This software is licensed under the GNU GPL V3.0. The actual license can be
+found in the file named LICENSE and online [HERE](https://www.gnu.org/licenses/gpl.html). 
+The software is copyrighted by the owner of the repo and the statement of 
+copyright is provided here as well.
+> Copyright (C) 2017 Joshua Forbes

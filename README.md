@@ -4,14 +4,16 @@
 Simple, this program is a parser implemented using Flex and Bison that validates
 the syntactic correctness of Fuzzy Set Notation strings passed in.
 
+## What Do I Need?
+This version was developed using:
+- Flex 2.5.39
+- Bison 3.0.4
+
 ## How Do I Get It?
 First you need to clone the repo. Once you do that run the following command:
 ```
 make
 ```
-This was developed using:
-- Flex 2.5.39
-- Bison 3.0.4
 
 ## How Do I Use It?
 Once you *make* the program you can run it using the following command:

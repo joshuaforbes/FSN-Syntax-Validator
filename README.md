@@ -9,7 +9,9 @@ First you need to clone the repo. Once you do that run the following command:
 ```
 make
 ```
-That will produce the program **checker1**.
+This was developed using:
+- Flex 2.5.39
+- Bison 3.0.4
 
 ## How Do I Use It?
 Once you *make* the program you can run it using the following command:
